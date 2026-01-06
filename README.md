@@ -10,4 +10,4 @@
 
 **Ссылка на проект**
 
-* [Ссылка на проект в Github pages](https://camicoros.github.io/nado-sdelat-idealno/)
+* [Ссылка на проект в Github pages](https://camicoros.github.io/nado_sdelat_idealno/)
